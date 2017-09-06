@@ -1,0 +1,8 @@
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/REST/bin/Debug/netcoreapp1.0/DotNetCoreExtentions.deps.json
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/REST/bin/Debug/netcoreapp1.0/DotNetCoreExtentions.runtimeconfig.json
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/REST/bin/Debug/netcoreapp1.0/DotNetCoreExtentions.runtimeconfig.dev.json
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/REST/bin/Debug/netcoreapp1.0/DotNetCoreExtentions.dll
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/REST/bin/Debug/netcoreapp1.0/DotNetCoreExtentions.pdb
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/REST/obj/Debug/netcoreapp1.0/DotNetCoreExtentions.AssemblyInfo.cs
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/REST/obj/Debug/netcoreapp1.0/DotNetCoreExtentions.dll
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/REST/obj/Debug/netcoreapp1.0/DotNetCoreExtentions.pdb

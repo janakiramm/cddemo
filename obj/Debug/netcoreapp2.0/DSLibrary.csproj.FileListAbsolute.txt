@@ -1,0 +1,10 @@
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/bin/Debug/netcoreapp2.0/DSLibrary.deps.json
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/bin/Debug/netcoreapp2.0/DSLibrary.runtimeconfig.json
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/bin/Debug/netcoreapp2.0/DSLibrary.runtimeconfig.dev.json
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/bin/Debug/netcoreapp2.0/DSLibrary.dll
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/bin/Debug/netcoreapp2.0/DSLibrary.pdb
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/obj/Debug/netcoreapp2.0/DSLibrary.csproj.CoreCompileInputs.cache
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/obj/Debug/netcoreapp2.0/DSLibrary.AssemblyInfoInputs.cache
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/obj/Debug/netcoreapp2.0/DSLibrary.AssemblyInfo.cs
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/obj/Debug/netcoreapp2.0/DSLibrary.dll
+/Volumes/Data/Dropbox/Personal/Projects/Playground/Dotnet/dn-core/obj/Debug/netcoreapp2.0/DSLibrary.pdb
