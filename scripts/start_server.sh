@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start Cassandra
-cassandra -R &
+/usr/local/cassandra/cassandra -R &
 
 # Start Kong
 kong start

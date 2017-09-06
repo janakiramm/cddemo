@@ -17,9 +17,6 @@ wget $CASSANDRA_MIRROR$CASSANDRA_PATH
 tar -zxf apache-cassandra-${CASSANDRA_VERSION}-bin.tar.gz
 mv apache-cassandra-${CASSANDRA_VERSION} /usr/local/cassandra
 mkdir /var/lib/cassandra && mkdir /var/log/cassandra
-echo 'CASSANDRA_HOME=/usr/local/cassandra' >> ~/.bash_profile
-echo 'PATH=$PATH:$CASSANDRA_HOME/bin' >> ~/.bash_profile
-source ~/.bash_profile
 Private_IP=`wget -qO- http://169.254.169.254/latest/meta-data/local-ipv4`
 sudo sed -i 's|rpc_address: localhost|rpc_address: 0.0.0.0|g' /usr/local/cassandra/conf/cassandra.yaml
 sudo sed -i "s|# broadcast_rpc_address: 1.2.3.4|broadcast_rpc_address: "$Private_IP"|g" /usr/local/cassandra/conf/cassandra.yaml
